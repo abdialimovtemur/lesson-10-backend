@@ -1,0 +1,147 @@
+{
+    "hero": {
+        "title": {
+            "en": "Enjoy Reserved Overhead bin space",
+            "ru": "Наслаждайтесь Зарезервировано Место для верхнего багажного отделения",
+            "uz": "Zaxiradan rohatlaning Yuqori savat bo'shlig'i"
+        },
+        "img": "https://raw.githubusercontent.com/abdialimovtemur/lesson-10-images/refs/heads/main/hero.png"
+    },
+    "business": {
+        "title": {
+            "en": "Private Jet for Business & Leisure Purposes",
+            "ru": "Частный самолет для деловых и досуговых целей",
+            "uz": "Biznes va Dam Olish Maqsadlarida Shaxsiy Samolyot"
+        },
+        "content": [
+            {
+                "img": "https://raw.githubusercontent.com/abdialimovtemur/lesson-10-images/refs/heads/main/business1.png",
+                "title": {
+                    "en": "Private Jet Charter",
+                    "ru": "Чартер частного самолета",
+                    "uz": "Shaxsiy Samolyot Charteri"
+                },
+                "description": {
+                    "en": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+                    "ru": "Известно давно, что читатель будет отвлечен читаемым содержимым страницы при просмотре ее макета. Смысл использования Lorem Ipsum в том, что он имеет более или менее нормальное распределение букв, в отличие от использования 'Content here, content here', что делает его похожим на читаемый английский. Многие пакеты для настольной верстки и веб-редакторы.",
+                    "uz": "Ma'lumki, o'quvchi sahifaning tartibini ko'rayotganda o'qiladigan mazmun bilan chalg'iydi. Lorem Ipsum dan foydalanishning ma'nosi shundaki, u harflarning deyarli odatiy tarqalishiga ega, 'Content here, content here' dan foydalanishga qaraganda, bu uni o'qilishi mumkin bo'lgan ingliz tiliga o'xshatadi. Ko'plab stol tahrirlash paketlari va veb-sahifa muharrirlari."
+                }
+            },
+            {
+                "img": "https://raw.githubusercontent.com/abdialimovtemur/lesson-10-images/refs/heads/main/business2.png",
+                "title": {
+                    "en": "Private Jet Charter",
+                    "ru": "Чартер частного самолета",
+                    "uz": "Shaxsiy Samolyot Charteri"
+                },
+                "description": {
+                    "en": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+                    "ru": "Известно давно, что читатель будет отвлечен читаемым содержимым страницы при просмотре ее макета. Смысл использования Lorem Ipsum в том, что он имеет более или менее нормальное распределение букв, в отличие от использования 'Content here, content here', что делает его похожим на читаемый английский. Многие пакеты для настольной верстки и веб-редакторы.",
+                    "uz": "Ma'lumki, o'quvchi sahifaning tartibini ko'rayotganda o'qiladigan mazmun bilan chalg'iydi. Lorem Ipsum dan foydalanishning ma'nosi shundaki, u harflarning deyarli odatiy tarqalishiga ega, 'Content here, content here' dan foydalanishga qaraganda, bu uni o'qilishi mumkin bo'lgan ingliz tiliga o'xshatadi. Ko'plab stol tahrirlash paketlari va veb-sahifa muharrirlari."
+                }
+            }
+        ]
+    },
+    "performance": {
+        "title": {
+            "en": "Private Jet Performance and Specifications",
+            "ru": "Характеристики и характеристики частного самолета",
+            "uz": "Xususiy Jetning ishlashi va texnik xususiyatlari"
+        },
+        "content": [
+            {
+                "img": "https://raw.githubusercontent.com/abdialimovtemur/lesson-10-images/refs/heads/main/performance1.png",
+                "title": {
+                    "en": "Luxury And Comfort",
+                    "ru": "Роскошь и комфорт",
+                    "uz": "Hashamat va qulaylik"
+                },
+                "description": {
+                    "en": "It is a long established fact that a reader will be distracted by the readable",
+                    "ru": "Давно установленный факт, что читатель будет отвлекаться на читаемое.",
+                    "uz": "O'quvchini o'qilishi mumkin bo'lgan narsa chalg'itishi uzoq vaqtdan beri tasdiqlangan haqiqatdir"
+                }
+            },
+            {
+                "img": "https://raw.githubusercontent.com/abdialimovtemur/lesson-10-images/refs/heads/main/performance2.png",
+                "title": {
+                    "en": "Luxury And Comfort",
+                    "ru": "Роскошь и комфорт",
+                    "uz": "Hashamat va qulaylik"
+                },
+                "description": {
+                    "en": "It is a long established fact that a reader will be distracted by the readable",
+                    "ru": "Давно установленный факт, что читатель будет отвлекаться на читаемое.",
+                    "uz": "O'quvchini o'qilishi mumkin bo'lgan narsa chalg'itishi uzoq vaqtdan beri tasdiqlangan haqiqatdir"
+                }
+            },
+            {
+                "img": "https://raw.githubusercontent.com/abdialimovtemur/lesson-10-images/refs/heads/main/performance3.png",
+                "title": {
+                    "en": "Luxury And Comfort",
+                    "ru": "Роскошь и комфорт",
+                    "uz": "Hashamat va qulaylik"
+                },
+                "description": {
+                    "en": "It is a long established fact that a reader will be distracted by the readable",
+                    "ru": "Давно установленный факт, что читатель будет отвлекаться на читаемое.",
+                    "uz": "O'quvchini o'qilishi mumkin bo'lgan narsa chalg'itishi uzoq vaqtdan beri tasdiqlangan haqiqatdir"
+                }
+            },
+            {
+                "img": "https://raw.githubusercontent.com/abdialimovtemur/lesson-10-images/refs/heads/main/performance4.png",
+                "title": {
+                    "en": "Luxury And Comfort",
+                    "ru": "Роскошь и комфорт",
+                    "uz": "Hashamat va qulaylik"
+                },
+                "description": {
+                    "en": "It is a long established fact that a reader will be distracted by the readable",
+                    "ru": "Давно установленный факт, что читатель будет отвлекаться на читаемое.",
+                    "uz": "O'quvchini o'qilishi mumkin bo'lgan narsa chalg'itishi uzoq vaqtdan beri tasdiqlangan haqiqatdir"
+                }
+            }
+        ]
+    },
+    "luxury": {
+        "title": {
+            "en": "Luxury Charters",
+            "ru": "Роскошные чартеры",
+            "uz": "Hashamatli Charters"
+        },
+        "content": [
+            {
+                "img": "https://raw.githubusercontent.com/abdialimovtemur/lesson-10-images/refs/heads/main/luxury1.png",
+                "title": {
+                    "en": "Piaggio P.180 Avanti",
+                    "ru": "Пьяджио P.180 Аванти",
+                    "uz": "Piaggio P.180 Avanti"
+                }
+            },
+            {
+                "img": "https://raw.githubusercontent.com/abdialimovtemur/lesson-10-images/refs/heads/main/luxury2.png",
+                "title": {
+                    "en": "Piaggio P.180 Avanti",
+                    "ru": "Пьяджио P.180 Аванти",
+                    "uz": "Piaggio P.180 Avanti"
+                }
+            },
+            {
+                "img": "https://raw.githubusercontent.com/abdialimovtemur/lesson-10-images/refs/heads/main/luxury3.png",
+                "title": {
+                    "en": "Piaggio P.180 Avanti",
+                    "ru": "Пьяджио P.180 Аванти",
+                    "uz": "Piaggio P.180 Avanti"
+                }
+            },
+            {
+                "img": "https://raw.githubusercontent.com/abdialimovtemur/lesson-10-images/refs/heads/main/luxury4.png",
+                "title": {
+                    "en": "Piaggio P.180 Avanti",
+                    "ru": "Пьяджио P.180 Аванти",
+                    "uz": "Piaggio P.180 Avanti"
+                }
+            }
+        ]
+    }
+}
